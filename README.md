@@ -130,8 +130,8 @@ Before you begin, ensure you have the following installed:
 - Ensure that your database connection parameters (if using Python to connect to MySQL) are correct.
 
 ## Contact
-For any questions or issues, please reach out to [sumeetbidhanwork@gmail.com].
-Also, can see the reporistory at [Sumeet Bidhan](https://github.com/sumeetbidhan/BOTShreyasi)
+- For any questions or issues, please reach out to [sumeetbidhanwork@gmail.com].
+- Also, can see the reporistory at [Sumeet Bidhan](https://github.com/sumeetbidhan/BOTShreyasi)
 ---
 
 Feel free to adjust any part of the README as needed!
